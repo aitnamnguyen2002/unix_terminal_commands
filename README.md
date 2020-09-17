@@ -1,2 +1,2 @@
 # unix_terminal_commands
-tutorial's box
+pwd is command that shows you the currwent history
